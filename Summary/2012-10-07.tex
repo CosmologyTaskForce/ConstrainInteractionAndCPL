@@ -669,13 +669,13 @@ Figure \ref{fig-rhod_I2CCPL_DecPara} shows the all the deceleration are the same
 \hline      \\ [-0.5ex]        % inserts single-line
 % Entering 1st row
     &  $\xi$  &  {\tabICCtrxi} & \ref{fig-rhoc_TransVSOmegam}  & N & \ref{fig-rhoc_DecPara} & - & - \\ [1.5ex]
-ICC & $w$ & CC\footnote{Depends on $\Omega m0$. Small $\Omega m0$ is P, large $\Omega m0$ is N.} & \ref{fig-rhoc_TransVSOmegam}  & & & \tabICCxiw & \ref{fig-rhoc_ICC_xiVSw}, \ref{fig-rhoc_ICC_xiVSw2}  \\ [2ex]
+ICC & $w$ & CC1 & \ref{fig-rhoc_TransVSOmegam}  & & & \tabICCxiw & \ref{fig-rhoc_ICC_xiVSw}, \ref{fig-rhoc_ICC_xiVSw2}  \\ [2ex]
     &  $\Omega m0$ & N  & \ref{fig-rhoc_TransVSOmegam} & P & \ref{fig-rhoc_DecPara} & P & \ref{fig-rhoc_ICC_xiVSOmegam0}  \\[2ex]
 % Entering 2nd row
 \hline \\ [-0.5ex]
- & $\xi$ & CC\footnote{but generally \tabICCPLtrxi}  & \ref{fig-rhoc_ICCPL_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam02}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam05}, \ref{fig-rhoc_ICCPL_Quint_TransVSOmegam0}   &  N  & \ref{fig-rhoc_ICCPL_DecPara} & - & - \\
+ & $\xi$ & CC2  & \ref{fig-rhoc_ICCPL_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam02}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam05}, \ref{fig-rhoc_ICCPL_Quint_TransVSOmegam0}   &  N  & \ref{fig-rhoc_ICCPL_DecPara} & - & - \\
 
-  &  $w0$ &  CC\footnote{In some region it behaves likes P, as in ICC model.}  &  \ref{fig-rhoc_ICCPL_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam02}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam05}, \ref{fig-rhoc_ICCPL_Quint_TransVSOmegam0}    &      &     &  P &  \ref{fig-rhoc_ICCPL_Quintom_xiVSOmegam0}, \ref{fig-rhoc_ICCPL_Quint_xiVSOmegam0}, \ref{fig-rhoc_ICCPL_Phan_xiVSOmegam0}  \\
+  &  $w0$ &  CC3  &  \ref{fig-rhoc_ICCPL_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam02}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam05}, \ref{fig-rhoc_ICCPL_Quint_TransVSOmegam0}    &      &     &  P &  \ref{fig-rhoc_ICCPL_Quintom_xiVSOmegam0}, \ref{fig-rhoc_ICCPL_Quint_xiVSOmegam0}, \ref{fig-rhoc_ICCPL_Phan_xiVSOmegam0}  \\
 
 \raisebox{1.5ex}{ICCPL} &  $w1$ & CC & \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam02}, \ref{fig-rhoc_ICCPL_Quintom_TransVSOmegam05}, \ref{fig-rhoc_ICCPL_Quint_TransVSOmegam0}, \ref{fig-rhoc_ICCPL_Phan_TransVSOmegam0}   &    &     &  P  &  \ref{fig-rhoc_ICCPL_Quintom_xiVSOmegam0}, \ref{fig-rhoc_ICCPL_Quint_xiVSOmegam0}, \ref{fig-rhoc_ICCPL_Phan_xiVSOmegam0} \\
 
@@ -685,7 +685,7 @@ ICC & $w$ & CC\footnote{Depends on $\Omega m0$. Small $\Omega m0$ is P, large $\
 %% The third group
 
      &  $\xi$  &  {\tabICCtrxi} & \ref{fig-rhod_I2CC_TransVSOmegam0}  & N & \ref{fig-rhod_I2CC_DecPara}  & - & - \\ [1.5ex]
-I2CC & $w$ & CC\footnote{Depends on $\Omega m0$. Small $\Omega m0$ is P, large $\Omega m0$ is N.} &  \ref{fig-rhod_I2CC_TransVSOmegam0}  &       &      & \tabICCxiw &  \ref{fig-rhod_I2CC_xiVSw}, \ref{fig-rhod_I2CC_xiVSw2}   \\ [2ex]
+I2CC & $w$ & CC4  &  \ref{fig-rhod_I2CC_TransVSOmegam0}  &       &      & \tabICCxiw &  \ref{fig-rhod_I2CC_xiVSw}, \ref{fig-rhod_I2CC_xiVSw2}   \\ [2ex]
      &  $\Omega m0$ & N  & \ref{fig-rhod_I2CC_TransVSOmegam0} & P & \ref{fig-rhod_I2CC_DecPara}   & P & \ref{fig-rhod_I2CC_xiVSOmegam02}  \\[2ex]
 
 
@@ -710,7 +710,36 @@ I2CC & $w$ & CC\footnote{Depends on $\Omega m0$. Small $\Omega m0$ is P, large $
 \end{table}
 
 
+Some notations in table \ref{tab-summary}:
 
+\begin{itemize}
+\item
+Models
+\begin{enumerate}
+\item
+ICC: $Q_c=\xi H \rho_c$ with a constant EoS
+\item
+ICCPL: $Q_c=\xi H \rho_c$ with a CPL parametrized EoS
+\item
+I2CC: $Q_c=\xi H \rho_d$ with a constant EoS
+\item
+I2CCPL: $Q_c=\xi H \rho_d$ with a CPL parametrized EoS
+\end{enumerate}
+\item
+CCX means sort of complicated.
+\begin{enumerate}
+\item
+CC1: Depends on $\Omega m0$. Small $\Omega m0$ is P, large $\Omega m0$ is N.
+\item
+CC2: Complicated but in some proper region just like \tabICCPLtrxi
+\item
+CC3: In some region it behaves likes P, as in ICC model.
+\item
+CC4: Depends on $\Omega m0$. Small $\Omega m0$ is P, large $\Omega m0$ is N.
+\end{enumerate}
+
+
+\end{itemize}
 
 
 %\includegraphics{files/DataFitting2_07-28.pdf}
