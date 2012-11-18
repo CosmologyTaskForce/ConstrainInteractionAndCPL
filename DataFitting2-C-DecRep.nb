@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       157,          7]
-NotebookDataLength[   1764211,      30174]
-NotebookOptionsPosition[   1760701,      30058]
-NotebookOutlinePosition[   1761766,      30093]
-CellTagsIndexPosition[   1761723,      30090]
+NotebookDataLength[   1764974,      30215]
+NotebookOptionsPosition[   1761466,      30099]
+NotebookOutlinePosition[   1762527,      30134]
+CellTagsIndexPosition[   1762484,      30131]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -21,7 +21,8 @@ Notebook[{
 
 Cell[CellGroupData[{
 Cell["Deceleration", "Section",
- CellChangeTimes->{{3.562162080795642*^9, 3.5621620825827436`*^9}}],
+ CellChangeTimes->{{3.562162080795642*^9, 3.5621620825827436`*^9}},
+ Background->None],
 
 Cell[CellGroupData[{
 
@@ -32,7 +33,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]ICCSum2", "}"}], ",", 
     RowBox[{"{", "pldecICCShowSum2", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{
-  3.5621868335634193`*^9, {3.56218758764155*^9, 3.562187597361106*^9}}],
+  3.5621868335634193`*^9, {3.56218758764155*^9, 3.562187597361106*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -1368,7 +1370,8 @@ Deceleration~Redshift\"", TraditionalForm],
   "Grid"]], "Output",
  CellChangeTimes->{
   3.56218616587823*^9, {3.5621868317143135`*^9, 3.5621868356795406`*^9}, 
-   3.5621875986161776`*^9, 3.562192708784463*^9}]
+   3.5621875986161776`*^9, 3.562192708784463*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -1380,7 +1383,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamICCPLQuintom1a", "}"}], ",", 
     RowBox[{"{", "pldecICCPLShowSum1a", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{
-  3.5621870472256403`*^9, {3.5621875192896404`*^9, 3.562187531748353*^9}}],
+  3.5621870472256403`*^9, {3.5621875192896404`*^9, 3.562187531748353*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -3227,7 +3231,8 @@ Deceleration~Redshift\"", TraditionalForm],
  CellChangeTimes->{
   3.5620354204240828`*^9, {3.5621620965575438`*^9, 3.5621621085732307`*^9}, 
    3.562185833834238*^9, 3.5621870524399385`*^9, 3.5621875325994015`*^9, 
-   3.5621927089194703`*^9}]
+   3.5621927089194703`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -3240,7 +3245,8 @@ Cell[BoxData[
     RowBox[{"{", "pldecICCPLShowSum1b", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562041329244048*^9, 3.56204132996509*^9}, {
   3.562187056966197*^9, 3.5621870619514823`*^9}, {3.5621875528865623`*^9, 
-  3.5621875567527833`*^9}}],
+  3.5621875567527833`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -4071,7 +4077,8 @@ Deceleration~Redshift\"", TraditionalForm],
  CellChangeTimes->{
   3.5620413351063833`*^9, {3.5621620983906484`*^9, 3.5621621086822367`*^9}, 
    3.5621858338412385`*^9, 3.5621870684468536`*^9, 3.5621875584228787`*^9, 
-   3.56219270908348*^9}]
+   3.56219270908348*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -4084,7 +4091,8 @@ Cell[BoxData[
     RowBox[{"{", "pldecICCPLShowSum1c", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.5620413316931887`*^9, 3.5620413324622326`*^9}, {
   3.562187064523629*^9, 3.562187065845705*^9}, {3.562187565117262*^9, 
-  3.5621875689054785`*^9}}],
+  3.5621875689054785`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -6060,7 +6068,8 @@ Deceleration~Redshift\"", TraditionalForm],
  CellChangeTimes->{
   3.5620413331452713`*^9, {3.5621620997577267`*^9, 3.562162108790243*^9}, 
    3.562185833848239*^9, 3.562187069791931*^9, 3.562187570300558*^9, 
-   3.5621927092174873`*^9}]
+   3.5621927092174873`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -6071,7 +6080,8 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", "tab\[Xi]vwExamICCPLQuintessence2a", "}"}], ",", 
     RowBox[{"{", "pldecICCPLShowSum2a", "}"}]}], "}"}], "]"}]], "Input",
- CellChangeTimes->{{3.5621877908661737`*^9, 3.5621877998306866`*^9}}],
+ CellChangeTimes->{{3.5621877908661737`*^9, 3.5621877998306866`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -7528,7 +7538,8 @@ Deceleration~Redshift\"", TraditionalForm],
    AutoDelete->False,
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
- CellChangeTimes->{3.5621878218749475`*^9, 3.562192709363496*^9}]
+ CellChangeTimes->{3.5621878218749475`*^9, 3.562192709363496*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -7539,7 +7550,8 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", "tab\[Xi]vwExamICCPLQuintessence2b", "}"}], ",", 
     RowBox[{"{", "pldecICCPLShowSum2b", "}"}]}], "}"}], "]"}]], "Input",
- CellChangeTimes->{{3.562187847184395*^9, 3.562187849314517*^9}}],
+ CellChangeTimes->{{3.562187847184395*^9, 3.562187849314517*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -8839,7 +8851,8 @@ Deceleration~Redshift\"", TraditionalForm],
    AutoDelete->False,
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
- CellChangeTimes->{3.5621878514456387`*^9, 3.5621927095155044`*^9}]
+ CellChangeTimes->{3.5621878514456387`*^9, 3.5621927095155044`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -8850,7 +8863,8 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", "tab\[Xi]vwExamICCPLQuintessence2c", "}"}], ",", 
     RowBox[{"{", "pldecICCPLShowSum2c", "}"}]}], "}"}], "]"}]], "Input",
- CellChangeTimes->{{3.5621878567679434`*^9, 3.562187857832004*^9}}],
+ CellChangeTimes->{{3.5621878567679434`*^9, 3.562187857832004*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -10221,7 +10235,8 @@ Deceleration~Redshift\"", TraditionalForm],
    AutoDelete->False,
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
- CellChangeTimes->{3.562187859015072*^9, 3.562192709670513*^9}]
+ CellChangeTimes->{3.562187859015072*^9, 3.562192709670513*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -10234,7 +10249,8 @@ Cell[BoxData[
     RowBox[{"{", "pldecICCPLShowSum3a", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.5620423290142317`*^9, 3.5620423291542397`*^9}, {
   3.562187936227488*^9, 3.562187950003276*^9}, {3.5621898945284967`*^9, 
-  3.562189894728508*^9}}],
+  3.562189894728508*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -11347,7 +11363,8 @@ Deceleration~Redshift\"", TraditionalForm],
   "Grid"]], "Output",
  CellChangeTimes->{3.56204234314104*^9, 3.5620428726873283`*^9, 
   3.562162109642292*^9, 3.5621858342892637`*^9, 3.5621879510283346`*^9, 
-  3.5621898955295534`*^9, 3.562192709817522*^9}]
+  3.5621898955295534`*^9, 3.562192709817522*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -11359,7 +11376,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamICCPLPhantom3b", "}"}], ",", 
     RowBox[{"{", "pldecICCPLShowSum3b", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.5621879633970423`*^9, 3.5621879777228613`*^9}, {
-  3.5621898993977747`*^9, 3.5621898995707846`*^9}}],
+  3.5621898993977747`*^9, 3.5621898995707846`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -12504,7 +12522,8 @@ Deceleration~Redshift\"", TraditionalForm],
   "Grid"]], "Output",
  CellChangeTimes->{3.5620423432350454`*^9, 3.5621621097532983`*^9, 
   3.562185834375269*^9, 3.562187978951932*^9, 3.5621899006078444`*^9, 
-  3.5621927100245333`*^9}]
+  3.5621927100245333`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -12517,7 +12536,8 @@ Cell[BoxData[
     RowBox[{"{", "pldecICCPLShowSum3c", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562042331677384*^9, 3.5620423317843904`*^9}, {
   3.56218798154608*^9, 3.5621879853913*^9}, {3.5621899090053244`*^9, 
-  3.5621899091883345`*^9}}],
+  3.5621899091883345`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -13583,7 +13603,8 @@ Deceleration~Redshift\"", TraditionalForm],
   "Grid"]], "Output",
  CellChangeTimes->{3.5620423433300505`*^9, 3.5621621098613043`*^9, 
   3.5621858344602737`*^9, 3.5621879866403713`*^9, 3.56218991259453*^9, 
-  3.562192710171542*^9}]
+  3.562192710171542*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -13594,7 +13615,8 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", "tab\[Xi]I2CCSum2", "}"}], ",", 
     RowBox[{"{", "pldecI2CCShowSum2", "}"}]}], "}"}], "]"}]], "Input",
- CellChangeTimes->{{3.5621902112256107`*^9, 3.5621902210921745`*^9}}],
+ CellChangeTimes->{{3.5621902112256107`*^9, 3.5621902210921745`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -14793,7 +14815,8 @@ Deceleration~Redshift\"", TraditionalForm],
   "Grid"]], "Output",
  CellChangeTimes->{3.5620449031764655`*^9, 3.5621621100373144`*^9, 
   3.562163064610913*^9, 3.5621631109545636`*^9, 3.5621858346102824`*^9, 
-  3.5621902251564074`*^9, 3.562190431040183*^9, 3.562192710406555*^9}]
+  3.5621902251564074`*^9, 3.562190431040183*^9, 3.562192710406555*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[TextData[{
@@ -14806,12 +14829,12 @@ models with interaction ",
    RowBox[{
     SubscriptBox["Q", "c"], "=", 
     RowBox[{"\[Xi]", " ", "H", " ", 
-     SubscriptBox["\[Rho]", "d"]}]}], TraditionalForm]],
-  FormatType->"TraditionalForm"],
+     SubscriptBox["\[Rho]", "d"]}]}], TraditionalForm]]],
  "."
 }], "Text",
  CellChangeTimes->{{3.5621908029584556`*^9, 3.5621908602697334`*^9}, {
-  3.5621909416723895`*^9, 3.5621910396849957`*^9}}],
+  3.5621909416723895`*^9, 3.5621910396849957`*^9}},
+ Background->None],
 
 Cell[CellGroupData[{
 
@@ -14822,7 +14845,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL1a", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum1a", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562189796735903*^9, 3.562189798503004*^9}, {
-  3.562190114423074*^9, 3.5621901198833857`*^9}}],
+  3.562190114423074*^9, 3.5621901198833857`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -16633,7 +16657,8 @@ Deceleration ~ Redshift\"", TraditionalForm],
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
  CellChangeTimes->{3.562190120952447*^9, 3.5621904420858145`*^9, 
-  3.562192710647569*^9}]
+  3.562192710647569*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -16645,7 +16670,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL1b", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum1b", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.5621566412995205`*^9, 3.562156643317636*^9}, {
-  3.562190465531156*^9, 3.562190471066472*^9}}],
+  3.562190465531156*^9, 3.562190471066472*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -18653,7 +18679,8 @@ Deceleration ~ Redshift\"", TraditionalForm],
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
  CellChangeTimes->{3.562157146007388*^9, 3.5621621103963346`*^9, 
-  3.562185834793293*^9, 3.562190471846517*^9, 3.562192710927585*^9}]
+  3.562185834793293*^9, 3.562190471846517*^9, 3.562192710927585*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -18665,7 +18692,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL1c", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum1c", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562156648439929*^9, 3.5621566487099447`*^9}, {
-  3.5621904775328426`*^9, 3.562190488357462*^9}}],
+  3.5621904775328426`*^9, 3.562190488357462*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -19989,7 +20017,8 @@ Deceleration ~ Redshift\"", TraditionalForm],
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
  CellChangeTimes->{3.5621571462624025`*^9, 3.5621621106503496`*^9, 
-  3.562185834988304*^9, 3.5621904894245224`*^9, 3.5621927112506037`*^9}]
+  3.562185834988304*^9, 3.5621904894245224`*^9, 3.5621927112506037`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -20001,7 +20030,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL2a", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum2a", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562156654480274*^9, 3.562156655522334*^9}, {
-  3.5621905034263234`*^9, 3.5621905067985163`*^9}}],
+  3.5621905034263234`*^9, 3.5621905067985163`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -21761,7 +21791,8 @@ line: Omegam0=0.287\"", 10, StripOnInput -> False], Background ->
   "Grid"]], "Output",
  CellChangeTimes->{3.562157146775432*^9, 3.562162112740469*^9, 
   3.562185835386327*^9, 3.5621905101637087`*^9, 3.562192631904065*^9, 
-  3.5621927115166187`*^9}]
+  3.5621927115166187`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -21773,7 +21804,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL2b", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum2b", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.5621566573444386`*^9, 3.562156659389555*^9}, {
-  3.562190514263943*^9, 3.5621905223954086`*^9}}],
+  3.562190514263943*^9, 3.5621905223954086`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -23452,7 +23484,8 @@ line: Omegam0=0.287\"", 10, StripOnInput -> False], Background ->
   "Grid"]], "Output",
  CellChangeTimes->{3.5621571470584483`*^9, 3.562162113074488*^9, 
   3.562185835581338*^9, 3.5621905231124496`*^9, 3.562192632233084*^9, 
-  3.562192711780634*^9}]
+  3.562192711780634*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -23464,7 +23497,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL2c", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum2c", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562156661296664*^9, 3.5621566622917213`*^9}, {
-  3.562190527769716*^9, 3.5621905340030727`*^9}}],
+  3.562190527769716*^9, 3.5621905340030727`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -25228,7 +25262,8 @@ line: Omegam0=0.287\"", 10, StripOnInput -> False], Background ->
   "Grid"]], "Output",
  CellChangeTimes->{3.5621571473284636`*^9, 3.562162113732526*^9, 
   3.5621858357793493`*^9, 3.562190535465156*^9, 3.5621926325911045`*^9, 
-  3.562192712079651*^9}]
+  3.562192712079651*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -25240,7 +25275,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL3a", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum3a", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.562156668483075*^9, 3.5621566685570793`*^9}, {
-  3.5621905411044784`*^9, 3.5621905451067076`*^9}}],
+  3.5621905411044784`*^9, 3.5621905451067076`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -26787,7 +26823,8 @@ Deceleration ~ Redshift\"", TraditionalForm],
   "Grid"]], "Output",
  CellChangeTimes->{3.5621571475704775`*^9, 3.562162114267556*^9, 
   3.5621858359483585`*^9, 3.5621905474498415`*^9, 3.562192632837119*^9, 
-  3.5621927123346653`*^9}]
+  3.5621927123346653`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -26798,7 +26835,8 @@ Cell[BoxData[
    RowBox[{
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL3b", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum3b", "}"}]}], "}"}], "]"}]], "Input",
- CellChangeTimes->{{3.562190554350236*^9, 3.562190562422698*^9}}],
+ CellChangeTimes->{{3.562190554350236*^9, 3.562190562422698*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -28424,7 +28462,8 @@ Deceleration ~ Redshift\"", TraditionalForm],
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
  CellChangeTimes->{3.5621571478114915`*^9, 3.5621621149405947`*^9, 
-  3.562185836118369*^9, 3.5621905641237955`*^9, 3.5621927126086817`*^9}]
+  3.562185836118369*^9, 3.5621905641237955`*^9, 3.5621927126086817`*^9},
+ Background->None]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -28436,7 +28475,8 @@ Cell[BoxData[
     RowBox[{"{", "tab\[Xi]vwExamI2CCPL3c", "}"}], ",", 
     RowBox[{"{", "pldecI2CCPLShowSum3c", "}"}]}], "}"}], "]"}]], "Input",
  CellChangeTimes->{{3.5621566718202662`*^9, 3.5621566719002705`*^9}, {
-  3.562190569020075*^9, 3.5621905721272526`*^9}}],
+  3.562190569020075*^9, 3.5621905721272526`*^9}},
+ Background->None],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -30052,22 +30092,23 @@ Deceleration ~ Redshift\"", TraditionalForm],
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Output",
  CellChangeTimes->{3.562157148065506*^9, 3.5621621153696194`*^9, 
-  3.5621858362873783`*^9, 3.562190573211315*^9, 3.5621927128426948`*^9}]
+  3.5621858362873783`*^9, 3.562190573211315*^9, 3.5621927128426948`*^9},
+ Background->None]
 }, Open  ]]
 }, Open  ]]
 },
-PrintingStyleEnvironment->"Working",
+ShowPageBreaks->True,
 WindowToolbars->{},
-WindowSize->{1016, 681},
-WindowMargins->{{Automatic, 0}, {Automatic, 0}},
+WindowSize->{1008, 681},
+WindowMargins->{{-8, Automatic}, {Automatic, 0}},
 DockedCells->{},
 PrintingCopies->1,
 PrintingPageRange->{32000, 32000},
 PrintingOptions->{"Magnification"->1.,
 "PaperOrientation"->"Portrait",
-"PaperSize"->{578.16, 829.68},
+"PaperSize"->{595.1999999999999, 841.98},
 "PrintCellBrackets"->False,
-"PrintMultipleHorizontalPages"->False,
+"PrintMultipleHorizontalPages"->True,
 "PrintRegistrationMarks"->False,
 "PrintingMargins"->{{5.6692914, 5.6692914}, {14.173228499999999`, \
 14.173228499999999`}}},
@@ -30093,87 +30134,87 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[579, 22, 99, 1, 75, "Section"],
+Cell[579, 22, 118, 2, 57, "Section"],
 Cell[CellGroupData[{
-Cell[703, 27, 275, 7, 41, "Input"],
-Cell[981, 36, 79275, 1334, 482, "Output"]
+Cell[722, 28, 294, 8, 24, "Input"],
+Cell[1019, 38, 79294, 1335, 339, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[80293, 1375, 294, 7, 41, "Input"],
-Cell[80590, 1384, 109494, 1845, 453, "Output"]
+Cell[80350, 1378, 313, 8, 24, "Input"],
+Cell[80666, 1388, 109513, 1846, 323, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[190121, 3234, 368, 8, 41, "Input"],
-Cell[190492, 3244, 48498, 829, 454, "Output"]
+Cell[190216, 3239, 387, 9, 24, "Input"],
+Cell[190606, 3250, 48517, 830, 323, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[239027, 4078, 369, 8, 41, "Input"],
-Cell[239399, 4088, 117385, 1974, 454, "Output"]
+Cell[239160, 4085, 388, 9, 24, "Input"],
+Cell[239551, 4096, 117404, 1975, 323, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[356821, 6067, 274, 6, 41, "Input"],
-Cell[357098, 6075, 85867, 1455, 454, "Output"]
+Cell[356992, 6076, 293, 7, 24, "Input"],
+Cell[357288, 6085, 85886, 1456, 324, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[443002, 7535, 270, 6, 41, "Input"],
-Cell[443275, 7543, 76243, 1298, 454, "Output"]
+Cell[443211, 7546, 289, 7, 24, "Input"],
+Cell[443503, 7555, 76262, 1299, 324, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[519555, 8846, 272, 6, 41, "Input"],
-Cell[519830, 8854, 80415, 1369, 454, "Output"]
+Cell[519802, 8859, 291, 7, 24, "Input"],
+Cell[520096, 8868, 80434, 1370, 324, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[600282, 10228, 369, 8, 41, "Input"],
-Cell[600654, 10238, 65807, 1111, 460, "Output"]
+Cell[600567, 10243, 388, 9, 24, "Input"],
+Cell[600958, 10254, 65826, 1112, 327, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[666498, 11354, 322, 7, 41, "Input"],
-Cell[666823, 11363, 67658, 1143, 460, "Output"]
+Cell[666821, 11371, 341, 8, 24, "Input"],
+Cell[667165, 11381, 67677, 1144, 327, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[734518, 12511, 366, 8, 41, "Input"],
-Cell[734887, 12521, 62884, 1064, 460, "Output"]
+Cell[734879, 12530, 385, 9, 24, "Input"],
+Cell[735267, 12541, 62903, 1065, 327, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[797808, 13590, 255, 6, 41, "Input"],
-Cell[798066, 13598, 69508, 1197, 811, "Output"]
+Cell[798207, 13611, 274, 7, 24, "Input"],
+Cell[798484, 13620, 69527, 1198, 577, "Output"]
 }, Open  ]],
-Cell[867589, 14798, 606, 15, 49, "Text"],
+Cell[868026, 14821, 592, 15, 34, "Text"],
 Cell[CellGroupData[{
-Cell[868220, 14817, 311, 7, 41, "Input"],
-Cell[868534, 14826, 106515, 1809, 789, "Output"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[975086, 16640, 311, 7, 41, "Input"],
-Cell[975400, 16649, 118493, 2006, 789, "Output"]
+Cell[868643, 14840, 330, 8, 24, "Input"],
+Cell[868976, 14850, 106534, 1810, 564, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1093930, 18660, 313, 7, 41, "Input"],
-Cell[1094246, 18669, 77301, 1322, 789, "Output"]
+Cell[975547, 16665, 330, 8, 24, "Input"],
+Cell[975880, 16675, 118512, 2007, 564, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1171584, 19996, 313, 7, 41, "Input"],
-Cell[1171900, 20005, 103377, 1758, 783, "Output"]
+Cell[1094429, 18687, 332, 8, 24, "Input"],
+Cell[1094764, 18697, 77320, 1323, 564, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1275314, 21768, 313, 7, 41, "Input"],
-Cell[1275630, 21777, 98183, 1677, 783, "Output"]
+Cell[1172121, 20025, 332, 8, 24, "Input"],
+Cell[1172456, 20035, 103396, 1759, 561, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1373850, 23459, 313, 7, 41, "Input"],
-Cell[1374166, 23468, 103947, 1762, 783, "Output"]
+Cell[1275889, 21799, 332, 8, 24, "Input"],
+Cell[1276224, 21809, 98202, 1678, 561, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1478150, 25235, 315, 7, 41, "Input"],
-Cell[1478468, 25244, 90842, 1545, 783, "Output"]
+Cell[1374463, 23492, 332, 8, 24, "Input"],
+Cell[1374798, 23502, 103966, 1763, 561, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1569347, 26794, 260, 6, 41, "Input"],
-Cell[1569610, 26802, 95721, 1624, 783, "Output"]
+Cell[1478801, 25270, 334, 8, 24, "Input"],
+Cell[1479138, 25280, 90861, 1546, 561, "Output"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[1665368, 28431, 315, 7, 41, "Input"],
-Cell[1665686, 28440, 94987, 1614, 783, "Output"]
+Cell[1570036, 26831, 279, 7, 24, "Input"],
+Cell[1570318, 26840, 95740, 1625, 561, "Output"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[1666095, 28470, 334, 8, 24, "Input"],
+Cell[1666432, 28480, 95006, 1615, 561, "Output"]
 }, Open  ]]
 }, Open  ]]
 }
